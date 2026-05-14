@@ -88,7 +88,7 @@ Building practical AI systems that are secure, scalable, and useful in real-worl
 ## Portfolio
 
 <a href="http://sabbirhossainrafat.com">
-sabbirhossainrafat.com
+Sabbir Hossain Rafat
 </a>
 
 ---
