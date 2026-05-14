@@ -1,37 +1,41 @@
 <h1 align="center">Sabbir Hossain Rafat</h1>
 
 <p align="center">
-AI Product Engineer • Full-Stack Developer • Secure AI Systems Builder
+AI Product Engineer • Full - Stack Developer • Secure AI Systems Builder
+</p>
+
+<p align="center">
+Building intelligent systems that combine software engineering, AI capabilities, automation, and security.
 </p>
 
 ---
 
 ## About Me
 
-I’m a Software Engineering student focused on building intelligent, secure, and scalable AI-powered applications.
+I’m a Software Engineering student focused on building scalable, secure, and production ready AI applications.
 
-My interests revolve around:
-- Full-stack AI product development
-- Retrieval-Augmented Generation (RAG)
-- AI agents & workflow automation
-- Secure AI architectures
-- Real-world business automation systems
+My primary interests include:
+- Full - stack AI product development
+- Retrieval Augmented Generation (RAG)
+- AI agents and workflow automation
+- Secure AI system architecture
+- Real world business automation
 
-I enjoy turning ideas into practical products using modern web technologies, LLM APIs, and scalable backend systems.
+I enjoy transforming complex ideas into practical products using modern web technologies, LLM APIs, and scalable backend systems.
 
 ---
 
 ## Current Focus
 
 ```txt
-Building AI systems that are useful, secure, and production-ready.
+Building practical AI systems that are secure, scalable, and useful in real-world environments.
 ```
 
-- AI-powered web applications
-- RAG pipelines & vector search
+- AI powered web applications
+- RAG pipelines and vector search systems
 - AI workflow automation
-- Secure agent systems
-- Product-oriented engineering
+- Secure AI agent architectures
+- Product oriented engineering
 
 ---
 
@@ -90,13 +94,13 @@ sabbirhossainrafat.com
 ---
 
 ## GitHub Analytics
-
+<!--
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=SabbirHossainRafat&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="170" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabbirHossainRafat&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" />
 </p>
-
+-->
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabbirHossainRafat&theme=github-dark&hide_border=true" />
 </p>
@@ -106,22 +110,9 @@ sabbirhossainrafat.com
 ## Philosophy
 
 ```txt
-Build practical systems.
-Ship consistently.
-Learn publicly.
-Focus on long-term skills.
+↤ The deepest forms of beauty are often born from humanity’s hardest experiences.
+
+↤ Every challenge pushes people to create, adapt, and innovate.
+
+↤ Develop your capabilities to such a level that, beyond Allah, you no longer need to depend on anyone else.
 ```
-
----
-
-## Support
-
-<p align="left">
-<a href="https://www.buymeacoffee.com/sabbir_rafat">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
-</a>
-
-<a href="https://www.ko-fi.com/sabbir_rafat">
-<img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/>
-</a>
-</p>
