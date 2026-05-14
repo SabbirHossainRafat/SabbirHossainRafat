@@ -15,7 +15,7 @@ Building intelligent systems that combine software engineering, AI capabilities,
 I’m a Software Engineering student focused on building scalable, secure, and production ready AI applications.
 
 My primary interests include:
-- Full - stack AI product development
+- Full - Stack AI product development
 - Retrieval Augmented Generation (RAG)
 - AI agents and workflow automation
 - Secure AI system architecture
